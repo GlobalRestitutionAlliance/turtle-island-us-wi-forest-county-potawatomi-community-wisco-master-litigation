@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=WI+FOREST+COUNTY+POTAWATOMI+COMMUNITY+WISCO",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=WI+FOREST+COUNTY+POTAWATOMI+COMMUNITY+WISCO",
+  "title": "Federal Register - WI FOREST COUNTY POTAWATOMI COMMUNITY WISCO",
+  "fetched_at": "2026-11-23T17:44:24.419430Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 101674,
+  "sha256": "bd123145bfa108b8d8cc2c1108012974602c57274b462e465d0981d26e8757da",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
